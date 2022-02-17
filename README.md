@@ -1,1 +1,1 @@
-平和な一日botのコード
+hello world
